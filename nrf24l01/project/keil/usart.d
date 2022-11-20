@@ -1,0 +1,32 @@
+.\usart.o: ..\src\USART.c
+.\usart.o: ..\..\project\stm32f10x.h
+.\usart.o: ..\..\lib\CMSIS\CM3\CoreSupport\core_cm3.h
+.\usart.o: E:\DTVT program\KEIL C 5 2021\ARM\ARMCC\Bin\..\include\stdint.h
+.\usart.o: ..\..\project\system_stm32f10x.h
+.\usart.o: ..\..\project\stm32f10x_conf.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\usart.o: ..\..\project\stm32f10x.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\usart.o: ..\..\lib\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\usart.o: ..\inc\USART.h
+.\usart.o: E:\DTVT program\KEIL C 5 2021\ARM\ARMCC\Bin\..\include\stdio.h

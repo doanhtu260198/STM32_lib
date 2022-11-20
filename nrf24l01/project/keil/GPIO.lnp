@@ -1,0 +1,21 @@
+--cpu Cortex-M3
+".\core_cm3.o"
+".\startup_stm32f10x_md.o"
+".\misc.o"
+".\stm32f10x_gpio.o"
+".\stm32f10x_rcc.o"
+".\stm32f10x_usart.o"
+".\stm32f10x_flash.o"
+".\stm32f10x_spi.o"
+".\main.o"
+".\stm32f10x_it.o"
+".\system_stm32f10x.o"
+".\sysclk.o"
+".\systick.o"
+".\usart.o"
+".\spi.o"
+".\nrf24l01.o"
+--library_type=microlib --strict --scatter ".\GPIO.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\GPIO.map" -o .\GPIO.axf
