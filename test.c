@@ -21,4 +21,5 @@
 void main(){
 
 	while(1);
+	send_TX();
 }
