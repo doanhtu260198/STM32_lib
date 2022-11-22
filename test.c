@@ -17,3 +17,8 @@
 #define DEMO_TX_MULTI       0 // Multiple address transmitter (3 pipes)
 #define DEMO_RX_SINGLE_ESB  0 // Single address receiver with Enhanced ShockBurst (1 pipe)
 #define DEMO_TX_SINGLE_ESB  1 // Single address transmitter with Enhanced ShockBurst (1 pipe)
+
+void main(){
+
+	while(1);
+}
